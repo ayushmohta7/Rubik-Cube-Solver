@@ -30,7 +30,10 @@ The solver efficiently determines the shortest solution for scrambled Rubik's Cu
 
 ## Directory Structure
 
-Rubik-Cube-Solver/
+Rubik-Cube-Solver
+```bash
+   Databases
+```
 ├── Databases/              # Precomputed pattern databases for heuristics
 ├── PatternDatabases/       # Additional patterns used in heuristic optimization
 ├── Solver/                 # Core solver algorithms
