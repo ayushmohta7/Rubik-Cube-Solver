@@ -1,3 +1,0 @@
-C:/Users/ayush/CLionProjects/RubikCubeExplain/cmake-build-debug/CMakeFiles/RubikCubeExplain.dir
-C:/Users/ayush/CLionProjects/RubikCubeExplain/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ayush/CLionProjects/RubikCubeExplain/cmake-build-debug/CMakeFiles/rebuild_cache.dir
